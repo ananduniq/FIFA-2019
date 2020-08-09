@@ -1,5 +1,5 @@
-        PGP Data Science Engineering
-        Exploratory Data Analysis – Mini Project:
+PGP Data Science Engineering
+Exploratory Data Analysis – Mini Project:
 
 A new football club named ‘Brussels United FC’ has just been inaugurated. This club does not have a team yet. The team is looking to hire players for their roster. Management wants to make such decisions using data based approach. During a recent hiring drive, you were selected for the Data Science team as a Junior data scientist. Your team has been tasked with creating a report which recommends players for the main team. To start with, a total 15 players are required. Player data for all teams has been acquired from FIFA. This data contains information about the palyers, the clubs they are currently playing for and various performance measures.
 There is a limited budget for hiring players. The team needs 20 possible players to choose from. You have been requested to formulate a report in order to help the management make a decision regarding potential players.
@@ -40,3 +40,6 @@ c)	Is there a correlation between the Overall rating and Value for these players
 4.	Generate tables containing the top 5 players by Overall rating for each unique position.
 a)	Are there any players appearing in more than one Table. Please point out such players.
 b)	What is the average wage one can expect to pay for the top 5 in every position?
+
+Final Report:
+Put all highlights from the information obtained above in a power point presentation containing a maximum of 5 slides. No title slide required.
