@@ -37,10 +37,6 @@ a)	What would the average wage for this set of players be?
 b)	What is the average age?
 c)	Is there a correlation between the Overall rating and Value for these players?
 
-4.	Generate tables containing the top 5 players by Overall rating for each unique position.
-a)	Are there any players appearing in more than one Table. Please point out such players.
+4.	Generate table containing the top 5 players by Overall rating for each unique position.
+a)	Are there any players appearing in more than one Position. Please point out such players.
 b)	What is the average wage one can expect to pay for the top 5 in every position?
-
-Final Report:
-Put all highlights from the information obtained above in a power point presentation containing a maximum of 5 slides. No title slide required.
-
