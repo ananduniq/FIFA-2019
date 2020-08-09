@@ -43,3 +43,4 @@ b)	What is the average wage one can expect to pay for the top 5 in every positio
 
 Final Report:
 Put all highlights from the information obtained above in a power point presentation containing a maximum of 5 slides. No title slide required.
+
